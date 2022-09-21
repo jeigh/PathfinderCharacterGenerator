@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj": {}
+    "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj": {}
   },
   "projects": {
-    "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj": {
+    "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
+        "projectUniqueName": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
         "projectName": "PathfinderCharacterGenerator.Models",
-        "projectPath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
+        "projectPath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\obj\\",
+        "outputPath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

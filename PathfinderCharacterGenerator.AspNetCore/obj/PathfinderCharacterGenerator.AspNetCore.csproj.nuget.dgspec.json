@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj": {}
+    "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj": {}
   },
   "projects": {
-    "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj": {
+    "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
+        "projectUniqueName": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
         "projectName": "PathfinderCharacterGenerator.AspNetCore",
-        "projectPath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
+        "projectPath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\obj\\",
+        "outputPath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

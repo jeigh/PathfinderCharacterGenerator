@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/PathfinderCombatSimulator/v17
+/.vs/
+

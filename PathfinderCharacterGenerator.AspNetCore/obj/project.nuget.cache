@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hv5OE5OqEqE7KngK/555Hj2ntpvvLLyh+HXWTKC9G6BaynujbbhMPE4pDWQwrxYhYxTffOJgOwdNsD4PIOOJGQ==",
+  "dgSpecHash": "QKuCX2g8X2cIREJzxVSBP9hLE5+b/hHw1MbNGC6xGn3gfmb176wodQ5G3mOfVX6/qDDThP7WGjndA3RQpkdC5g==",
   "success": true,
-  "projectFilePath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
+  "projectFilePath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.AspNetCore\\PathfinderCharacterGenerator.AspNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

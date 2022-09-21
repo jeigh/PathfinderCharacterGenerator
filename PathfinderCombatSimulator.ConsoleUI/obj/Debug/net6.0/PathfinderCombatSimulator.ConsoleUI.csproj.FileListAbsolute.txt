@@ -1,0 +1,15 @@
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.csproj.AssemblyReference.cache
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.AssemblyInfoInputs.cache
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.AssemblyInfo.cs
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.csproj.CoreCompileInputs.cache
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\bin\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.exe
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\bin\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.deps.json
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\bin\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.runtimeconfig.json
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\bin\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.dll
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\bin\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.pdb
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.dll
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\refint\PathfinderCombatSimulator.ConsoleUI.dll
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.pdb
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\PathfinderCombatSimulator.ConsoleUI.genruntimeconfig.cache
+E:\sc\PathfinderCharacterGenerator\PathfinderCombatSimulator.ConsoleUI\obj\Debug\net6.0\ref\PathfinderCombatSimulator.ConsoleUI.dll

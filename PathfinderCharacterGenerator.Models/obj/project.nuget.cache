@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pZkv01EYLSLRbkmlraUgha0jZl//DYDHWzwsStXoBPJyJUJaNJlYhUvkFOV9hkshM5U2uAnnee2YBa0WeVemA==",
+  "dgSpecHash": "3Or9N+CZ3ZdO+TLEwDE2V0f+hxwK5q25/ggb/ogsnC97pq7bHQrnRh8X+d4zQmayXt7MvZm3ChB0hwoAWr4Msw==",
   "success": true,
-  "projectFilePath": "e:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
+  "projectFilePath": "E:\\sc\\PathfinderCharacterGenerator\\PathfinderCharacterGenerator.Models\\PathfinderCharacterGenerator.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
